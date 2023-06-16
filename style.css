@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bolota{
+    background-color: black;
+    background-image: linear-gradient(black,black);
+    background-image: black;
+}
+.letra{
+    color: rgb(247, 241, 241);
+}
+.cardápio{
+   color: hotpink;
+
+}
+
+.MEIO{
+    padding-left: 45%;
+}
+.dunts{ 
+    width: 303px;
+    height: 303px
+}
+.do{
+    width: 303px;
+    height: 303px
+}
+.cookie{width: 303px;
+    height: 303px
+}
+.box{width: 303px;
+    height: 303px
+
+}
+.day{width: 303px;
+    height: 303px
+ }
+ .bb{width: 303px;
+    height: 303px
+}
+.jj{width: 303px;
+    height: 303px
+}
+    .sabor{color: #fff; 
+    }
